@@ -7,6 +7,4 @@ AATSN++: Anatomy Assisted Tumor Segmentation Network for 3D and 2D PET-CT Modali
 
 The full code will be shared upon acceptance of the paper and related thesis.
 
-![3Dplus2DArchitectureAATSN](https://github.com/ibtihajahmadkhan/AATSN/assets/77004751/636ac01d-442b-420b-bc0e-b78b175318ff)
-
-
+![3Dplus2DArchitecture](https://github.com/ibtihajahmadkhan/AATSN/assets/77004751/25294928-8fa7-4685-9a7c-fe81fb30cf6b)
